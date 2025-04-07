@@ -1,0 +1,15 @@
+C:\Users\227194\source\repos\TK\TK\bin\Debug\TK.exe.config
+C:\Users\227194\source\repos\TK\TK\bin\Debug\TK.exe
+C:\Users\227194\source\repos\TK\TK\bin\Debug\TK.pdb
+C:\Users\227194\source\repos\TK\TK\obj\Debug\TK.csproj.AssemblyReference.cache
+C:\Users\227194\source\repos\TK\TK\obj\Debug\App.g.cs
+C:\Users\227194\source\repos\TK\TK\obj\Debug\TK_MarkupCompile.cache
+C:\Users\227194\source\repos\TK\TK\obj\Debug\TK_MarkupCompile.lref
+C:\Users\227194\source\repos\TK\TK\obj\Debug\TK.g.resources
+C:\Users\227194\source\repos\TK\TK\obj\Debug\TK.Properties.Resources.resources
+C:\Users\227194\source\repos\TK\TK\obj\Debug\TK.csproj.GenerateResource.cache
+C:\Users\227194\source\repos\TK\TK\obj\Debug\TK.csproj.CoreCompileInputs.cache
+C:\Users\227194\source\repos\TK\TK\obj\Debug\TK.exe
+C:\Users\227194\source\repos\TK\TK\obj\Debug\TK.pdb
+C:\Users\227194\source\repos\TK\TK\obj\Debug\MainWindow.g.cs
+C:\Users\227194\source\repos\TK\TK\obj\Debug\MainWindow.baml
